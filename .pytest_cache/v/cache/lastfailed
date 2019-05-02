@@ -1,0 +1,4 @@
+{
+  "tests/test_regression.py::test_regression": true,
+  "tests/test_simulation.py::test_simulation_1": true
+}
